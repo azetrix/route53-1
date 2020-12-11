@@ -1,4 +1,4 @@
-module github.com/libdns/route53
+module github.com/azetrix/route53-1
 
 go 1.14
 
